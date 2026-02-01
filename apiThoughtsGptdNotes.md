@@ -1,5 +1,4 @@
-Alright. Backend-first, MapLibre-friendly, realtime, and built so you can scale the sim without rewriting everything later.
-
+# DeeDay2026
 ## Backend goals (what the server must guarantee)
 
 1. **Authoritative world state**
